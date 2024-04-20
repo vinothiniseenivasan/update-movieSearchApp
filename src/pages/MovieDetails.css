@@ -1,0 +1,29 @@
+.movie-details-wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 2rem;
+}
+.movie-card
+{
+    flex-basis: 45% ;
+}
+
+.movie-details{
+    color: white;
+    flex-basis: 50%;
+    font-size:  x-large;
+    display: flex;
+    flex-direction: column;
+    gap:2rem
+
+}
+.genre
+{
+   border : 1px solid rgb(37, 37, 75);
+   padding: 10px 20px ;
+   border-radius: 20px;
+   background-color: rgb(91, 88, 88);
+   margin-right: 1rem;
+}
