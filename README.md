@@ -6,3 +6,42 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+**# Movie Search App**
+
+Welcome to the Movie Search App! This application allows users to search for movies and view detailed information about each movie.
+
+![Movie Search App Demo](demo.gif)
+
+**## Features**
+
+- Search for movies by title
+
+- View detailed information about each movie, including plot, cast, and ratings
+
+- Responsive design for use on various devices
+
+**## Technologies Used**
+
+- React
+
+- React Router
+
+- OMDB API
+
+- HTML5
+
+- CSS3
+
+- JavaScript (ES6+)
+
+- Axios
+
+**Usage:**
+
+* Enter a movie title in the search bar and press Enter or click the search button to search for movies.
+* Click on a movie poster or title to view detailed information about the movie.
+
+**Screenshot:**
+
+**    **
