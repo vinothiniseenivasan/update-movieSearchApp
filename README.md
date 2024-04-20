@@ -44,4 +44,11 @@ Welcome to the Movie Search App! This application allows users to search for mov
 
 **Screenshot:**
 ![Screenshot 2024-04-20 123325](https://github.com/vinothiniseenivasan/update-movieSearchApp/assets/137482214/a6fc3159-c0e7-4cb7-af9b-6f30eff46855)
+## Deployment
+
+The Movie Search App is deployed and accessible via the following URLs:
+
+- **Main Deployment**: [movieapp-6n1vzqmly-vinothinis-projects.vercel.app](https://movieapp-6n1vzqmly-vinothinis-projects.vercel.app)
+- **Alternate Domain**: [movieapp-pi-gilt.vercel.app](https://movieapp-pi-gilt.vercel.app)
+
 
